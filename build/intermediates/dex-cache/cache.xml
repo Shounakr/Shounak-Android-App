@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kiranranabhor/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/kiranranabhor/Downloads/Splash-master-3/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d6385561c3832165b7aa9a086358405ac8908810.jar" />
+    </item>
+    <item
+        jar="/Users/kiranranabhor/Downloads/Splash-master-3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/kiranranabhor/Downloads/Splash-master-3/app/build/intermediates/pre-dexed/debug/classes-decd2b8966a0ba462142c0e2271997028c4d30c2.jar" />
+    </item>
+    <item
+        jar="/Users/kiranranabhor/Downloads/Splash-master-3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/kiranranabhor/Downloads/Splash-master-3/app/build/intermediates/pre-dexed/debug/classes-ac9561663451aea8f7e68630c0bb3dcf955f5446.jar" />
+    </item>
+    <item
+        jar="/Users/kiranranabhor/Downloads/Splash-master-3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/kiranranabhor/Downloads/Splash-master-3/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-1086071deb1065b0fc3b77dbc0f3b0be005ec7bb.jar" />
+    </item>
+
+</items>
